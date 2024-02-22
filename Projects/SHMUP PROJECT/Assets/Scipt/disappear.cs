@@ -12,7 +12,7 @@ public class TextDisappearing : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.R))
         {
             textComponent.enabled = !textComponent.enabled;
         }
