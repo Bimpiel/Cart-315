@@ -21,9 +21,8 @@ public class Spaceship : MonoBehaviour
 
     void Start()
 {
-    // Delete the "Score" key to reset the score when the game starts
+    
     PlayerPrefs.DeleteKey("Score");
-    // Set the initial health value
     PlayerPrefs.SetInt("Health", health);
 }
 
