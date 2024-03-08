@@ -7,9 +7,9 @@
 # Journal Entry Two
 
 ### Design Values:
-### 1. Immersion: The game should provide players with a deeply immersive experience, blurring the lines between reality and the virtual world.
-### 2. Player Agency: Offering meaningful choices and consequences, allowing players to shape the narrative and impact the game world.
-### 3. Innovation: Introducing novel mechanics or concepts that push the boundaries of traditional game design.
+ 1. Immersion: The game should provide players with a deeply immersive experience, blurring the lines between reality and the virtual world.
+ 2. Player Agency: Offering meaningful choices and consequences, allowing players to shape the narrative and impact the game world.
+ 3. Innovation: Introducing novel mechanics or concepts that push the boundaries of traditional game design.
 
 ### 1. Echoes of Eternity:
 Embark on a journey through a fractured timeline where the player's decisions in one era ripple through the ages. Utilizing time manipulation, players must solve puzzles, forge alliances, and face consequences that echo across different epochs.
