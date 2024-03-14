@@ -19,3 +19,10 @@ Immersing players in a cosmic exploration game where they traverse breathtaking 
 
 ### 3. Nexus Chronicles:
 Plunging players into a cyberpunk metropolis where they navigate a web of interconnected stories. Every decision made, from alliances with factions to personal relationships, shapes the city's destiny. The narrative evolves dynamically based on the player's choices, creating a living, breathing urban landscape.
+
+# Journal Entry Three
+Prototyping Stage 1 - The idea was to create a simple low fidelity game mechanic. The idea was to make a game that ressembles a platformer/adventure type game. Related to my previous journal entry, Nexus Chronicles above, the idea was to create an exploration game using this simple game mechanic found in the embeded video.
+[![Watch the video](https://img.youtube.com/vi/_nVTNyTQ1Sw/maxresdefault.jpg)](https://youtu.be/_nVTNyTQ1Sw)
+The video consist of three things, a double jump mechanic, wallmount and platforms. This would be the basic game where you can travel to the next stages based on the platforms etc.
+After the playtest, there was multiple people that felt as if the game was similar to jump king. So we asked ourselves, how can we improve the idea rather than scrapping it? Puzzles was one of the solutions that intrigued me. Creating a puzzle like platformer where the end-goal is to reach the top. This mechanic could be in the form of a labyrinthe or even items that the player have to collect to get to the endgame.
+The next step is to have a more refined prototype of the interaction with different levels ready!
