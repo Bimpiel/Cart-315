@@ -39,5 +39,6 @@ Prototyping Stage 2 - The idea was to explore a different setting from the unity
     <img src="https://img.youtube.com/vi/Bxu9QSdyALQ/maxresdefault.jpg" alt="Watch the video" style="width:50%;">
   </a>
 </p>
+This is a simple collision mechanic. The main goal was to use the z as t timemap axis which was new to me to create a different kind of game from what we have been working on. Simple and easy.
 
 
