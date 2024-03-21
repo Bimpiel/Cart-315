@@ -31,3 +31,11 @@ Prototyping Stage 1 - The idea was to create a simple low fidelity game mechanic
 The video consist of three things, a double jump mechanic, wallmount and platforms. This would be the basic game where you can travel to the next stages based on the platforms etc.
 After the playtest, there was multiple people that felt as if the game was similar to jump king. So we asked ourselves, how can we improve the idea rather than scrapping it? Puzzles was one of the solutions that intrigued me. Creating a puzzle like platformer where the end-goal is to reach the top. This mechanic could be in the form of a labyrinthe or even items that the player have to collect to get to the endgame.
 The next step is to have a more refined prototype of the interaction with different levels ready!
+
+Prototyping Stage 2 - The idea was to explore a different setting from the unity editor called tilemap. The general idea would be a roguelike game that consist of a zombie apocalypse. This next video consist of a barebone game mechanic
+
+<p align="center">
+  <a href="https://studio.youtube.com/video/Bxu9QSdyALQ">
+    <img src="https://studio.youtube.com/video/Bxu9QSdyALQ" alt="Watch the video" style="width:50%;">
+  </a>
+</p>
