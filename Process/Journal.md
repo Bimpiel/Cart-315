@@ -36,6 +36,8 @@ Prototyping Stage 2 - The idea was to explore a different setting from the unity
 
 <p align="center">
   <a href="https://studio.youtube.com/video/Bxu9QSdyALQ">
-    <img src="https://studio.youtube.com/video/Bxu9QSdyALQ" alt="Watch the video" style="width:50%;">
+    <img src="https://img.youtube.com/vi/Bxu9QSdyALQ/maxresdefault.jpg" alt="Watch the video" style="width:50%;">
   </a>
 </p>
+
+
