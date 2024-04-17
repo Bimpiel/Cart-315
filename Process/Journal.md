@@ -46,5 +46,6 @@ This is a simple collision mechanic. The main goal was to use the z as t timemap
 Initially, I showed my process of the Prototyping Stage 2 to John who at the time was working on a game that was a 2D rogue like top down game. We ended up thinking about incorporating both the idea of an isometric 2D and the rogue like game that he was working on. 
 We started with the idea of finding assets from the unity store. The problem was that there weren't many examples of assets which would fit our needs and not a lot of examples of what we wanted to create online which deemed to be quite hard.
 Then we decided on making the project a 3D top down project after coming across this.
+
 [![Video Title](http://img.youtube.com/vi/CFymeqMnLOU/0.jpg)](http://www.youtube.com/watch?v=CFymeqMnLOU "Click to Watch Video")
 
